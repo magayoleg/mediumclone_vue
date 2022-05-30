@@ -1,5 +1,5 @@
 # Medium Clone Vue
-This project GitHub Pages [Create React App](https://magayoleg.github.io/mediumclone_vue/)\
+This project GitHub Pages [Create Vue App](https://magayoleg.github.io/mediumclone_vue/)\
 Click to "Sign In"\
 Enter into the form:\
 Email: aaa@aaa.ru\
